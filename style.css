@@ -1,6 +1,7 @@
 /* Mantém sua paleta e reset */
 :root {
-    --rosa-claro: #fbf0f0;
+    --branco: #ffffff;
+    --rosa-claro: #fff3f3;
     --bege: #f6f1eb;
     --marrom: #8c6e5d;
     --marrom-escuro: #5a4438;
@@ -59,7 +60,7 @@
   
   /*=========================== Hero ===========================*/
 .hero {
-    background: linear-gradient(145deg, var(--rosa-claro), var(--bege));
+    background: linear-gradient(145deg, var(--branco));
     border: 2px solid rgba(139, 105, 84, 0.2); /* Bordinha linda */
     border-radius: 24px;
     padding: 4rem 2rem;
